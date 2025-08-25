@@ -33,7 +33,7 @@ This project demonstrates how to automate AWS S3 operations using Python and bot
 # Installation
 
 ```bash
-  git clone https://github.com/<your-username>/aws-s3-automation.git
+  git clone https://github.com/PranjalMaurya07/AWS-S3-Automation-with-Python.git
 ```
 ```bash
   pip install boto3
